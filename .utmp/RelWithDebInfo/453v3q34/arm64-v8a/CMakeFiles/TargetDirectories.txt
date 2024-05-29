@@ -1,0 +1,5 @@
+D:/UnityProject/Clicker/.utmp/RelWithDebInfo/453v3q34/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/UnityProject/Clicker/.utmp/RelWithDebInfo/453v3q34/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/UnityProject/Clicker/.utmp/RelWithDebInfo/453v3q34/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/UnityProject/Clicker/.utmp/RelWithDebInfo/453v3q34/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/UnityProject/Clicker/.utmp/RelWithDebInfo/453v3q34/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
